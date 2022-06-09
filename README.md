@@ -1,1 +1,1 @@
-- Cors class code from Alx-T Udacity
+- CORS class code from Alx-T Udacity
